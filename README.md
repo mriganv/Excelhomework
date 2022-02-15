@@ -1,2 +1,2 @@
 # Excelhomework
-First week homework 
+Excel analysis of a KickStarter project data
